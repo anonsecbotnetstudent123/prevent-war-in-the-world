@@ -1,0 +1,7 @@
+http://5.172.4.142:9001/login.rsp         admin:3554720
+http://212.15.46.31:9002/login.rsp        admin:LexHon08
+http://46.182.133.63:8081/login.rsp       admin:asd269630
+http://176.121.215.80:8081/login.rsp      admin:45454545
+http://77.75.129.189:8081/login.rsp       admin:32132175
+http://188.65.234.166:8081/login.rsp      admin:cydvbb3qkc
+http://79.172.13.53:9001/login.rsp        admin:3554720
